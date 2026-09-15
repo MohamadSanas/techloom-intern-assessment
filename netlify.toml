@@ -1,0 +1,4 @@
+[build]
+  base = "task-02/frontend"
+  command = "npm run build"
+  publish = "dist"
