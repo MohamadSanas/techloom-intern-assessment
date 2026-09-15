@@ -12,7 +12,7 @@ export interface Product {
 export interface CartItem {
   id: string;
   product: Product;
-  quantity: int;
+  quantity: number;
 }
 
 export interface Cart {
